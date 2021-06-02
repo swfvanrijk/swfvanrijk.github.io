@@ -10,7 +10,7 @@ nav_order: 1
 
 Python{: .label }
 <p class="label">Python</p>
-[view on GitHub](http://example.com/){: .btn }
+[view on GitHub](https://github.com/swfvanrijk/Wikipedia-Crawler-and-Scraper){: .btn }
 
 
 ## Introduction
