@@ -9,7 +9,7 @@ nav_order: 1
 ---
 
 Python{: .label }
-<p class="label">Python</p>s
+<p class="label">Python</p>
 [view on GitHub](http://example.com/){: .btn }
 
 
