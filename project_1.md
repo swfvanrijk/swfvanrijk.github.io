@@ -5,7 +5,7 @@ grand_parent: Projects
 nav_order: 1
 ---
 
-# Wikipedia webcrawler and network visualisation
+# Wikipedia webcrawler and network visualization
 ---
 
 Python {: .label }
