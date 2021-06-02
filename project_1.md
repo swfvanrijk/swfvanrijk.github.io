@@ -15,7 +15,7 @@ Python{: .label }
 
 ## Introduction
 
-In this project I made a webcrawler to go to a [random Wikipedia page](https://en.wikipedia.org/wiki/Special:Random) and then follow the first link in the first paragraph that is not in  a text block that is surrounded by parentheses, since these are usually the pronounciation or translation links. Following this algorithm could leave you in the following cases:
+In this project I made a webcrawler to go to a [random Wikipedia page](https://en.wikipedia.org/wiki/Special:Random) and then follow the first link in the first paragraph that is not in  a text block that is surrounded by parentheses, since these are usually the pronounciation or translation links. Following this algorithm you will end up in one of the following cases:
 
 - You will end up at the [Philosophy page](https://en.wikipedia.org/wiki/Philosophy).
 - You will encounter a loop of several pages.
