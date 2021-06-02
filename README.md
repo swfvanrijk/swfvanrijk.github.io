@@ -10,19 +10,23 @@ Temp:
 list of projects
 
 1. old
--mandelbrot zoom
+- mandelbrot zoom
 -
 
 
 2. semi
 - chaos game
+- genetic algorithm on elementary cellular automata
+- gravitational dynamics
 
 
 3. new
--wikipedia
--alexcfourpo
--kardashev paper
--epi vaccination stratigies
--gravitational dynamics
--society simulation
--cryptocurrency
+- wikipedia
+- alexcfourpo
+- kardashev paper
+
+
+4. upcoming
+- society simulation
+- cryptocurrency
+- epi vaccination stratigies
