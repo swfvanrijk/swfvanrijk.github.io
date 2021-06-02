@@ -9,16 +9,16 @@ Temp:
 
 list of projects
 
-old
+1. old
 -mandelbrot zoom
 -
 
 
-semi
+2. semi
 - chaos game
 
 
-new
+3. new
 -wikipedia
 -alexcfourpo
 -kardashev paper
