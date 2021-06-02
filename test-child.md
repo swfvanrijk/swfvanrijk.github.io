@@ -1,10 +1,9 @@
 ---
-title: Child of Test
-parent: Test
+title: Category 1
+parent: Projects
 has_children: true
 nav_order: 1
 ---
 
-# Child of test
+# Categories
 
-I am a child page.
