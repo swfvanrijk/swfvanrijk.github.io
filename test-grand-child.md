@@ -1,8 +1,8 @@
 ---
-title: Granchild of Test
-parent: Child of Test
-grand_parent: Test
+title: Project 1
+parent: Category 1
+grand_parent: Projects
 nav_order: 1
 ---
 
-# I am a grand child of test
+# Project 1
