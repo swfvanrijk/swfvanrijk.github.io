@@ -1,12 +1,9 @@
 ---
-title: Test
+title: Projects
 has_children: true
 nav_order: 2
 ---
 
-# Another page
+# Summary of my projects
 
-Test this
-
-
-blah
+TODO write summary
