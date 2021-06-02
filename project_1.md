@@ -8,7 +8,7 @@ nav_order: 1
 # Wikipedia webcrawler and network visualization
 ---
 
-Python {: .label }
+Python{: .label }
 
 [view on GitHub](http://example.com/){: .btn }
 
@@ -23,6 +23,6 @@ Python {: .label }
   <dd>Green</dd>
 </dl>
 
-<p class="label">Default label</p>
+<p class="label">Python</p>
 
 In this project
