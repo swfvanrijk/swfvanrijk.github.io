@@ -6,6 +6,7 @@ nav_order: 1
 ---
 
 # Wikipedia webcrawler and network vizualisation
+---
 
 Python {: .label }
 
