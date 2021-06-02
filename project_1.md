@@ -10,3 +10,4 @@ nav_order: 1
 
 Python {: .label }
 
+<p class="label">Default label</p>
