@@ -11,7 +11,6 @@ list of projects
 
 1. old
 - mandelbrot zoom
--
 
 
 2. semi
