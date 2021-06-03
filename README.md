@@ -1,6 +1,6 @@
 # About me
 
-![Image](https://fonky.nl/wp-content/uploads/2021/04/Sebastiaan-van-Rijk-HQ-Backoffice-Medewerker-e1618982689465.jpg)
+![Image](https://fonky.nl/wp-content/uploads/2021/04/Sebastiaan-van-Rijk-HQ-Backoffice-Medewerker-e1618982689465.jpg){ width: 200px; }
 
 Hello, I'm Sebastiaan and I'm a data scientist with a background in physics who likes to work on the [edge of chaos](https://en.wikipedia.org/wiki/Edge_of_chaos).
 My interests are Complex Systems, Particle Physics and Quantum Computing.
