@@ -1,7 +1,9 @@
 # SITE CONFIGURATION
+baseurl: ""
 url: "https://swfvanrijk.github.io"
 
 title: "S.W.F. van Rijk"
+description: "My project portfolio"
 remote_theme: pmarsceill/just-the-docs
 
 search_enabled: false
