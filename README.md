@@ -1,10 +1,3 @@
----
-title: About me
-has_children: false
-nav_order: 1
----
-
-
 # About me
 
 Hello, I'm Sebastiaan and I'm a data scientist with a background in physics who likes to work on the [edge of chaos](https://en.wikipedia.org/wiki/Edge_of_chaos).
