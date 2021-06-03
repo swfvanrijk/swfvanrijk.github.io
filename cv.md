@@ -5,4 +5,3 @@ nav_order: 2
 ---
 
 # Curriculum Vitae
-srlknns
