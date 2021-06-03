@@ -2,7 +2,6 @@
 title: Education
 parent: Curriculum Vitae
 has_children: false
-nav_order: 1
 ---
 
 # Education
