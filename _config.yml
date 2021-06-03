@@ -5,3 +5,5 @@ url: "https://swfvanrijk.github.io"
 title: "S.W.F. van Rijk"
 remote_theme: pmarsceill/just-the-docs
 search_enabled: false
+
+footer_content: "Copyright &copy; on the contents  2014-2021 Sebastiaan van Rijk."
