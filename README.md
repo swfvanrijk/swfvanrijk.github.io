@@ -7,7 +7,7 @@ Hello, I'm Sebastiaan and I'm a data scientist with a background in physics who 
 
 My interests are Complex Systems, Particle Physics and Quantum Computing.
 
-On this website you can find my resumé and a selection of my projects I have made.
+On this website you can find my resumé and a selection of the projects I have made.
 
 If you wish to contact me, you can do so by emailing me at swfvanrijk@gmail.com
 
