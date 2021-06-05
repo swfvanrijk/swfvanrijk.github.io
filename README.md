@@ -9,7 +9,7 @@ My interests are Complex Systems, Particle Physics and Quantum Computing.
 
 On this website you can find my resumé and a selection of the projects I have made.
 
-If you wish to contact me, you can do so by emailing me at swfvanrijk@gmail.com
+If you wish to contact me, you can do so by emailing me at <swfvanrijk@gmail.com>
 
 TODO Put some cv stuff below.
 
